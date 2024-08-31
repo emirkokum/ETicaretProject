@@ -9,3 +9,4 @@ C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Domain\obj\Debug\net8.0\refint\ETicaretAPI.Domain.dll
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.pdb
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Domain\obj\Debug\net8.0\ref\ETicaretAPI.Domain.dll
+C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Domain\obj\Debug\net8.0\ETicaretAPI.Domain.sourcelink.json

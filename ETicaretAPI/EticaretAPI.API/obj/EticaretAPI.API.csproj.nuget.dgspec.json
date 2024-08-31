@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\emir_\\OneDrive\\Masaüstü\\Coding\\Mini-ETicaret\\ETicaretAPI\\EticaretAPI.API\\EticaretAPI.API.csproj": {}
+    "C:\\Users\\emir_\\OneDrive\\Masaüstü\\Coding\\Mini-ETicaret\\ETicaretAPI\\EticaretAPI.API\\ETicaretAPI.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\emir_\\OneDrive\\Masaüstü\\Coding\\Mini-ETicaret\\ETicaretAPI\\EticaretAPI.API\\EticaretAPI.API.csproj": {
+    "C:\\Users\\emir_\\OneDrive\\Masaüstü\\Coding\\Mini-ETicaret\\ETicaretAPI\\EticaretAPI.API\\ETicaretAPI.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\emir_\\OneDrive\\Masaüstü\\Coding\\Mini-ETicaret\\ETicaretAPI\\EticaretAPI.API\\EticaretAPI.API.csproj",
-        "projectName": "EticaretAPI.API",
-        "projectPath": "C:\\Users\\emir_\\OneDrive\\Masaüstü\\Coding\\Mini-ETicaret\\ETicaretAPI\\EticaretAPI.API\\EticaretAPI.API.csproj",
+        "projectUniqueName": "C:\\Users\\emir_\\OneDrive\\Masaüstü\\Coding\\Mini-ETicaret\\ETicaretAPI\\EticaretAPI.API\\ETicaretAPI.API.csproj",
+        "projectName": "ETicaretAPI.API",
+        "projectPath": "C:\\Users\\emir_\\OneDrive\\Masaüstü\\Coding\\Mini-ETicaret\\ETicaretAPI\\EticaretAPI.API\\ETicaretAPI.API.csproj",
         "packagesPath": "C:\\Users\\emir_\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\emir_\\OneDrive\\Masaüstü\\Coding\\Mini-ETicaret\\ETicaretAPI\\EticaretAPI.API\\obj\\",
         "projectStyle": "PackageReference",
@@ -46,6 +46,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -82,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -125,6 +130,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -152,7 +162,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -191,6 +201,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -212,7 +227,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
@@ -255,6 +270,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -290,7 +310,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

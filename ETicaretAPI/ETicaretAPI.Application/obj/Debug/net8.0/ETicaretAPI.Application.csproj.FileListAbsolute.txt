@@ -8,8 +8,9 @@ C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.AssemblyInfoInputs.cache
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.AssemblyInfo.cs
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.csproj.CoreCompileInputs.cache
-C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.csproj.CopyComplete
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.dll
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net8.0\refint\ETicaretAPI.Application.dll
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.pdb
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net8.0\ref\ETicaretAPI.Application.dll
+C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net8.0\ETicaretAPI.Application.sourcelink.json
+C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Application\obj\Debug\net8.0\ETicaret.BBAD6852.Up2Date

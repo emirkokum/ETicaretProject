@@ -36,7 +36,6 @@ C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\bin\Debug\net8.0\System.Composition.Hosting.dll
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
-C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -103,9 +102,10 @@ C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EticaretAPI.API.props
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\obj\Debug\net8.0\staticwebassets.pack.json
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\obj\Debug\net8.0\scopedcss\bundle\EticaretAPI.API.styles.css
-C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\obj\Debug\net8.0\EticaretAPI.API.csproj.CopyComplete
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\obj\Debug\net8.0\EticaretAPI.API.dll
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\obj\Debug\net8.0\refint\EticaretAPI.API.dll
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\obj\Debug\net8.0\EticaretAPI.API.pdb
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\obj\Debug\net8.0\EticaretAPI.API.genruntimeconfig.cache
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\obj\Debug\net8.0\ref\EticaretAPI.API.dll
+C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\obj\Debug\net8.0\EticaretAPI.API.sourcelink.json
+C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\EticaretAPI.API\obj\Debug\net8.0\ETicaret.822DF9EF.Up2Date

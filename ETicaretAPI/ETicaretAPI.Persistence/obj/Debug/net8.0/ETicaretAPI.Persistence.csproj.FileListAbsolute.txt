@@ -10,8 +10,9 @@ C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.AssemblyInfoInputs.cache
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.AssemblyInfo.cs
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.csproj.CoreCompileInputs.cache
-C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.csproj.CopyComplete
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.dll
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Persistence\obj\Debug\net8.0\refint\ETicaretAPI.Persistence.dll
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.pdb
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Persistence\obj\Debug\net8.0\ref\ETicaretAPI.Persistence.dll
+C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaretAPI.Persistence.sourcelink.json
+C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Persistence\obj\Debug\net8.0\ETicaret.D6939411.Up2Date
