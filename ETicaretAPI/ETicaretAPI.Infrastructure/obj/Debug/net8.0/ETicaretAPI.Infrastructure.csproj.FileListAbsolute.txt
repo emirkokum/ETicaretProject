@@ -10,8 +10,9 @@ C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.AssemblyInfo.cs
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.csproj.CopyComplete
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.dll
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Infrastructure\obj\Debug\net8.0\refint\ETicaretAPI.Infrastructure.dll
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.pdb
 C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ref\ETicaretAPI.Infrastructure.dll
+C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaretAPI.Infrastructure.sourcelink.json
+C:\Users\emir_\OneDrive\Masaüstü\Coding\Mini-ETicaret\ETicaretAPI\ETicaretAPI.Infrastructure\obj\Debug\net8.0\ETicaret.21F566A7.Up2Date
